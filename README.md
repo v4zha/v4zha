@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 ## **jobless individual**
 
-![vazha](https://github.com/R-v1n/R-v1n/blob/main/vazha.png)
+![vazha](vazha.png)
 
