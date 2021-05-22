@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **R-v1n/R-v1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#jobless individual
+## jobless individual
