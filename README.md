@@ -1,4 +1,5 @@
 #### **jobless individual😁**
+** Total No0b :) **
 
-![vazha](vazha.png)
+![v4zha](v4zha_0.png)
 
